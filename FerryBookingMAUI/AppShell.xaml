@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="FerryBookingMAUI.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:FerryBookingMAUI.Views"
+    xmlns:car="clr-namespace:FerryBookingMAUI.Views.Car"
+    xmlns:ferry="clr-namespace:FerryBookingMAUI.Views.Ferry"
+    xmlns:guest="clr-namespace:FerryBookingMAUI.Views.Guest"
+    Title="FerryBookingMAUI">
+
+    <ShellContent
+        Title="Dashboard"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+
+    <ShellContent
+        Title="Car Management"
+        ContentTemplate="{DataTemplate car:CarListView}"
+        Route="CarListView" />
+
+    <ShellContent
+        Title="Create Car"
+        ContentTemplate="{DataTemplate car:CreateCarPage}"
+        Route="CreateCarPage" />
+
+    <ShellContent
+        Title="Edit Car"
+        ContentTemplate="{DataTemplate car:EditCarPage}"
+        Route="EditCarPage" />
+
+    <ShellContent
+        Title="Car Details"
+        ContentTemplate="{DataTemplate car:CarDetailsPage}"
+        Route="CarDetailsPage" />
+
+    <ShellContent
+        Title="Ferry Management"
+        ContentTemplate="{DataTemplate ferry:FerryPage}"
+        Route="FerryPage" />
+
+    <ShellContent
+        Title="Create Ferry"
+        ContentTemplate="{DataTemplate ferry:CreateFerryPage}"
+        Route="CreateFerryPage" />
+
+    <ShellContent
+        Title="Edit Ferry"
+        ContentTemplate="{DataTemplate ferry:EditFerryPage}"
+        Route="EditFerryPage" />
+
+    <ShellContent
+        Title="Ferry Details"
+        ContentTemplate="{DataTemplate ferry:FerryDetailsPage}"
+        Route="FerryDetailsPage" />
+
+    <ShellContent
+        Title="Guest Management"
+        ContentTemplate="{DataTemplate guest:GuestPage}"
+        Route="GuestPage" />
+
+    <ShellContent
+        Title="Create Guest"
+        ContentTemplate="{DataTemplate guest:CreateGuestPage}"
+        Route="CreateGuestPage" />
+
+    <ShellContent
+        Title="Edit Guest"
+        ContentTemplate="{DataTemplate guest:EditGuestPage}"
+        Route="EditGuestPage" />
+
+    <ShellContent
+        Title="Guest Details"
+        ContentTemplate="{DataTemplate guest:GuestDetailsPage}"
+        Route="GuestDetailsPage" />
+</Shell>

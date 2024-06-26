@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:FerryBookingMAUI.ViewModels.Ferries"
+             x:Class="FerryBookingMAUI.Views.Ferry.FerryPage"
+             Title="Manage Ferries">
+
+    <ContentPage.BindingContext>
+        <vm:FerryViewModel />
+    </ContentPage.BindingContext>
+
+    <StackLayout Padding="10">
+        <Button Text="Create New" Command="{Binding CreateNewFerryCommand}" Margin="0,0,0,10" HorizontalOptions="Center" />
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <!-- Header -->
+            <Label Text="Id" FontAttributes="Bold" Grid.Row="0" Grid.Column="0" />
+            <Label Text="MaxGuests" FontAttributes="Bold" Grid.Row="0" Grid.Column="1" />
+            <Label Text="MaxCars" FontAttributes="Bold" Grid.Row="0" Grid.Column="2" />
+            <Label Text="PricePerCar" FontAttributes="Bold" Grid.Row="0" Grid.Column="3" />
+            <Label Text="PricePerGuest" FontAttributes="Bold" Grid.Row="0" Grid.Column="4" />
+            <Label Text="Actions" FontAttributes="Bold" Grid.Row="0" Grid.Column="5" />
+
+            <!-- Data -->
+            <CollectionView ItemsSource="{Binding Ferries}" Grid.Row="1" Grid.ColumnSpan="6">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Padding="5">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="2*" />
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+
+                            <Label Text="{Binding Id}" Grid.Column="0" VerticalOptions="Center" />
+                            <Label Text="{Binding MaxGuests}" Grid.Column="1" VerticalOptions="Center" />
+                            <Label Text="{Binding MaxCars}" Grid.Column="2" VerticalOptions="Center" />
+                            <Label Text="{Binding PricePerCar}" Grid.Column="3" VerticalOptions="Center" />
+                            <Label Text="{Binding PricePerGuest}" Grid.Column="4" VerticalOptions="Center" />
+                            <StackLayout Orientation="Horizontal" Grid.Column="5" HorizontalOptions="End">
+                                <Button Text="Edit" 
+                                        Command="{Binding Path=BindingContext.EditFerryCommand, Source={RelativeSource AncestorType={x:Type ContentPage}}}" 
+                                        CommandParameter="{Binding .}" 
+                                        Margin="0,0,5,0"/>
+                                <Button Text="Details" 
+                                        Command="{Binding Path=BindingContext.ViewFerryDetailsCommand, Source={RelativeSource AncestorType={x:Type ContentPage}}}" 
+                                        CommandParameter="{Binding .}" 
+                                        Margin="0,0,5,0"/>
+                                <Button Text="Delete" 
+                                        Command="{Binding Path=BindingContext.DeleteFerryCommand, Source={RelativeSource AncestorType={x:Type ContentPage}}}" 
+                                        CommandParameter="{Binding .}" />
+                            </StackLayout>
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </Grid>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:FerryBookingMAUI.ViewModels.Cars"
+             x:Class="FerryBookingMAUI.Views.Car.CarListView"
+             Title="Manage Cars">
+
+    <ContentPage.BindingContext>
+        <vm:CarViewModel />
+    </ContentPage.BindingContext>
+
+    <StackLayout Padding="10">
+        <Button Text="Create New" Command="{Binding CreateNewCarCommand}" Margin="0,0,0,10" HorizontalOptions="Center" />
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <!-- Header -->
+            <Label Text="Id" FontAttributes="Bold" Grid.Row="0" Grid.Column="0" />
+            <Label Text="RegistrationPlate" FontAttributes="Bold" Grid.Row="0" Grid.Column="1" />
+            <Label Text="Guests" FontAttributes="Bold" Grid.Row="0" Grid.Column="2" />
+            <Label Text="Actions" FontAttributes="Bold" Grid.Row="0" Grid.Column="3" />
+
+            <!-- Data -->
+            <CollectionView ItemsSource="{Binding Cars}" Grid.Row="1" Grid.ColumnSpan="4">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Padding="5">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="2*" />
+                                <ColumnDefinition Width="2*" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+
+                            <Label Text="{Binding Id}" Grid.Column="0" VerticalOptions="Center" />
+                            <Label Text="{Binding RegistrationPlate}" Grid.Column="1" VerticalOptions="Center" />
+
+                            <!-- Guests List -->
+                            <CollectionView ItemsSource="{Binding Guests}" Grid.Column="2" VerticalOptions="Center">
+                                <CollectionView.ItemTemplate>
+                                    <DataTemplate>
+                                        <StackLayout>
+                                            <Label Text="{Binding Name}" />
+                                            <Label Text="{Binding Age}" />
+                                            <Label Text="{Binding Gender}" />
+                                        </StackLayout>
+                                    </DataTemplate>
+                                </CollectionView.ItemTemplate>
+                            </CollectionView>
+
+                            <StackLayout Orientation="Horizontal" Grid.Column="3" HorizontalOptions="End">
+                                <Button Text="Edit" 
+                                        Command="{Binding Path=BindingContext.EditCarCommand, Source={RelativeSource AncestorType={x:Type ContentPage}}}" 
+                                        CommandParameter="{Binding .}" 
+                                        Margin="0,0,5,0"/>
+                                <Button Text="Details" 
+                                        Command="{Binding Path=BindingContext.ViewCarDetailsCommand, Source={RelativeSource AncestorType={x:Type ContentPage}}}" 
+                                        CommandParameter="{Binding .}" 
+                                        Margin="0,0,5,0"/>
+                                <Button Text="Delete" 
+                                        Command="{Binding Path=BindingContext.DeleteCarCommand, Source={RelativeSource AncestorType={x:Type ContentPage}}}" 
+                                        CommandParameter="{Binding .}" />
+                            </StackLayout>
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </Grid>
+    </StackLayout>
+</ContentPage>

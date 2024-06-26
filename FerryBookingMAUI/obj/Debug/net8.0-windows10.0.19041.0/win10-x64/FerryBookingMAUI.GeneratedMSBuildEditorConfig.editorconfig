@@ -1,0 +1,115 @@
+is_global = true
+build_property.TargetFramework = net8.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FerryBookingMAUI
+build_property.ProjectDir = C:\Users\jeppe\source\repos\FerryBookingSolution\FerryBookingMAUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/jeppe/source/repos/FerryBookingSolution/FerryBookingMAUI/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FerryBookingMAUI.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/jeppe/source/repos/FerryBookingSolution/FerryBookingMAUI/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FerryBookingMAUI.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/jeppe/source/repos/FerryBookingSolution/FerryBookingMAUI/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FerryBookingMAUI.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/jeppe/source/repos/FerryBookingSolution/FerryBookingMAUI/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FerryBookingMAUI.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/jeppe/source/repos/FerryBookingSolution/FerryBookingMAUI/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FerryBookingMAUI.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/jeppe/source/repos/FerryBookingSolution/FerryBookingMAUI/Views/Car/CarDetailsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FerryBookingMAUI.Views.Car.CarDetailsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Car\CarDetailsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Car\CarDetailsPage.xaml
+
+[C:/Users/jeppe/source/repos/FerryBookingSolution/FerryBookingMAUI/Views/Car/CarListView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FerryBookingMAUI.Views.Car.CarListView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Car\CarListView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Car\CarListView.xaml
+
+[C:/Users/jeppe/source/repos/FerryBookingSolution/FerryBookingMAUI/Views/Car/CreateCarPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FerryBookingMAUI.Views.Car.CreateCarPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Car\CreateCarPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Car\CreateCarPage.xaml
+
+[C:/Users/jeppe/source/repos/FerryBookingSolution/FerryBookingMAUI/Views/Car/EditCarPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FerryBookingMAUI.Views.Car.EditCarPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Car\EditCarPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Car\EditCarPage.xaml
+
+[C:/Users/jeppe/source/repos/FerryBookingSolution/FerryBookingMAUI/Views/Ferry/CreateFerryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FerryBookingMAUI.Views.Ferry.CreateFerryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Ferry\CreateFerryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Ferry\CreateFerryPage.xaml
+
+[C:/Users/jeppe/source/repos/FerryBookingSolution/FerryBookingMAUI/Views/Ferry/EditFerryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FerryBookingMAUI.Views.Ferry.EditFerryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Ferry\EditFerryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Ferry\EditFerryPage.xaml
+
+[C:/Users/jeppe/source/repos/FerryBookingSolution/FerryBookingMAUI/Views/Ferry/FerryDetails.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FerryBookingMAUI.Views.Ferry.FerryDetails.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Ferry\FerryDetails.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Ferry\FerryDetails.xaml
+
+[C:/Users/jeppe/source/repos/FerryBookingSolution/FerryBookingMAUI/Views/Ferry/FerryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FerryBookingMAUI.Views.Ferry.FerryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Ferry\FerryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Ferry\FerryPage.xaml
+
+[C:/Users/jeppe/source/repos/FerryBookingSolution/FerryBookingMAUI/Views/Guest/CreateGuestPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FerryBookingMAUI.Views.Guest.CreateGuestPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Guest\CreateGuestPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Guest\CreateGuestPage.xaml
+
+[C:/Users/jeppe/source/repos/FerryBookingSolution/FerryBookingMAUI/Views/Guest/EditGuestPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FerryBookingMAUI.Views.Guest.EditGuestPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Guest\EditGuestPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Guest\EditGuestPage.xaml
+
+[C:/Users/jeppe/source/repos/FerryBookingSolution/FerryBookingMAUI/Views/Guest/GuestDetailsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FerryBookingMAUI.Views.Guest.GuestDetailsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Guest\GuestDetailsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Guest\GuestDetailsPage.xaml
+
+[C:/Users/jeppe/source/repos/FerryBookingSolution/FerryBookingMAUI/Views/Guest/GuestPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FerryBookingMAUI.Views.Guest.GuestPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Guest\GuestPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Guest\GuestPage.xaml

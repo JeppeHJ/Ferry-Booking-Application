@@ -1,0 +1,14 @@
+C:\Users\jeppe\source\repos\FerryBookingSolution\FerryBookingModels\bin\Debug\net8.0\FerryBookingModels.deps.json
+C:\Users\jeppe\source\repos\FerryBookingSolution\FerryBookingModels\bin\Debug\net8.0\FerryBookingModels.runtimeconfig.json
+C:\Users\jeppe\source\repos\FerryBookingSolution\FerryBookingModels\bin\Debug\net8.0\FerryBookingModels.dll
+C:\Users\jeppe\source\repos\FerryBookingSolution\FerryBookingModels\bin\Debug\net8.0\FerryBookingModels.pdb
+C:\Users\jeppe\source\repos\FerryBookingSolution\FerryBookingModels\obj\Debug\net8.0\FerryBookingModels.csproj.AssemblyReference.cache
+C:\Users\jeppe\source\repos\FerryBookingSolution\FerryBookingModels\obj\Debug\net8.0\FerryBookingModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeppe\source\repos\FerryBookingSolution\FerryBookingModels\obj\Debug\net8.0\FerryBookingModels.AssemblyInfoInputs.cache
+C:\Users\jeppe\source\repos\FerryBookingSolution\FerryBookingModels\obj\Debug\net8.0\FerryBookingModels.AssemblyInfo.cs
+C:\Users\jeppe\source\repos\FerryBookingSolution\FerryBookingModels\obj\Debug\net8.0\FerryBookingModels.csproj.CoreCompileInputs.cache
+C:\Users\jeppe\source\repos\FerryBookingSolution\FerryBookingModels\obj\Debug\net8.0\FerryBookingModels.dll
+C:\Users\jeppe\source\repos\FerryBookingSolution\FerryBookingModels\obj\Debug\net8.0\refint\FerryBookingModels.dll
+C:\Users\jeppe\source\repos\FerryBookingSolution\FerryBookingModels\obj\Debug\net8.0\FerryBookingModels.pdb
+C:\Users\jeppe\source\repos\FerryBookingSolution\FerryBookingModels\obj\Debug\net8.0\FerryBookingModels.genruntimeconfig.cache
+C:\Users\jeppe\source\repos\FerryBookingSolution\FerryBookingModels\obj\Debug\net8.0\ref\FerryBookingModels.dll

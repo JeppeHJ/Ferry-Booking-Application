@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:FerryBookingMAUI.ViewModels.Ferries"
+             x:Class="FerryBookingMAUI.Views.Ferry.EditFerryPage"
+             Title="Edit Ferry">
+
+    <ContentPage.BindingContext>
+        <vm:EditFerryViewModel />
+    </ContentPage.BindingContext>
+
+    <StackLayout Padding="10">
+        <Label Text="Max Guests:" FontAttributes="Bold" />
+        <Entry Text="{Binding SelectedFerry.MaxGuests}" Keyboard="Numeric" />
+
+        <Label Text="Max Cars:" FontAttributes="Bold" Margin="0,10,0,0" />
+        <Entry Text="{Binding SelectedFerry.MaxCars}" Keyboard="Numeric" />
+
+        <Label Text="Price Per Car:" FontAttributes="Bold" Margin="0,10,0,0" />
+        <Entry Text="{Binding SelectedFerry.PricePerCar}" Keyboard="Numeric" />
+
+        <Label Text="Price Per Guest:" FontAttributes="Bold" Margin="0,10,0,0" />
+        <Entry Text="{Binding SelectedFerry.PricePerGuest}" Keyboard="Numeric" />
+
+        <Button Text="Save" Command="{Binding SaveFerryCommand}" Margin="0,20,0,0" />
+    </StackLayout>
+</ContentPage>

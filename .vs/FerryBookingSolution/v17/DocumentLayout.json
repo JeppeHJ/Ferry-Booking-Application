@@ -1,0 +1,1597 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\models\\carviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\models\\carviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\views\\cars\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\views\\cars\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\views\\guests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\views\\guests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\views\\guests\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\views\\guests\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\views\\guests\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\views\\guests\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\views\\guests\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\views\\guests\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\views\\guests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\views\\guests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\views\\ferries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\views\\ferries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\views\\ferries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\views\\ferries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\views\\ferries\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\views\\ferries\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\views\\ferries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\views\\ferries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\views\\ferries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\views\\ferries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\views\\cars\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\views\\cars\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\views\\cars\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\views\\cars\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\views\\cars\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\views\\cars\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\models\\guestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\models\\guestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\controllers\\guestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\controllers\\guestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmvc\\controllers\\ferriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7083CA81-555A-4766-AF84-19C94F6E4CC2}|FerryBookingMVC\\FerryBookingMVC.csproj|solutionrelative:ferrybookingmvc\\controllers\\ferriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69C8F88-83F2-4705-B303-D2AB8A9DC258}|FerryBookingModels\\FerryBookingModels.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmodels\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69C8F88-83F2-4705-B303-D2AB8A9DC258}|FerryBookingModels\\FerryBookingModels.csproj|solutionrelative:ferrybookingmodels\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69C8F88-83F2-4705-B303-D2AB8A9DC258}|FerryBookingModels\\FerryBookingModels.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmodels\\ferry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69C8F88-83F2-4705-B303-D2AB8A9DC258}|FerryBookingModels\\FerryBookingModels.csproj|solutionrelative:ferrybookingmodels\\ferry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69C8F88-83F2-4705-B303-D2AB8A9DC258}|FerryBookingModels\\FerryBookingModels.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmodels\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69C8F88-83F2-4705-B303-D2AB8A9DC258}|FerryBookingModels\\FerryBookingModels.csproj|solutionrelative:ferrybookingmodels\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69C8F88-83F2-4705-B303-D2AB8A9DC258}|FerryBookingModels\\FerryBookingModels.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmodels\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69C8F88-83F2-4705-B303-D2AB8A9DC258}|FerryBookingModels\\FerryBookingModels.csproj|solutionrelative:ferrybookingmodels\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69C8F88-83F2-4705-B303-D2AB8A9DC258}|FerryBookingModels\\FerryBookingModels.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmodels\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69C8F88-83F2-4705-B303-D2AB8A9DC258}|FerryBookingModels\\FerryBookingModels.csproj|solutionrelative:ferrybookingmodels\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69C8F88-83F2-4705-B303-D2AB8A9DC258}|FerryBookingModels\\FerryBookingModels.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmodels\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69C8F88-83F2-4705-B303-D2AB8A9DC258}|FerryBookingModels\\FerryBookingModels.csproj|solutionrelative:ferrybookingmodels\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\views\\guest\\guestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\views\\guest\\guestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\views\\guest\\guestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\views\\guest\\guestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\views\\guest\\guestdetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\views\\guest\\guestdetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\views\\guest\\guestdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\views\\guest\\guestdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\views\\guest\\editguestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\views\\guest\\editguestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\views\\guest\\editguestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\views\\guest\\editguestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\views\\guest\\createguestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\views\\guest\\createguestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\views\\guest\\createguestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\views\\guest\\createguestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\views\\ferry\\ferrypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\views\\ferry\\ferrypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\views\\ferry\\ferrydetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\views\\ferry\\ferrydetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\views\\ferry\\editferrypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\views\\ferry\\editferrypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\views\\ferry\\createferrypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\views\\ferry\\createferrypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\views\\car\\editcarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\views\\car\\editcarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\views\\car\\createcarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\views\\car\\createcarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\views\\car\\carlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\views\\car\\carlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\views\\car\\cardetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\views\\car\\cardetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\viewmodels\\guests\\guestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\viewmodels\\guests\\guestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\viewmodels\\guests\\guestdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\viewmodels\\guests\\guestdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\viewmodels\\guests\\editguestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\viewmodels\\guests\\editguestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\viewmodels\\guests\\createguestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\viewmodels\\guests\\createguestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\viewmodels\\ferries\\ferryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\viewmodels\\ferries\\ferryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\viewmodels\\ferries\\ferrydetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\viewmodels\\ferries\\ferrydetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\viewmodels\\ferries\\editferryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\viewmodels\\ferries\\editferryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\viewmodels\\ferries\\createferryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\viewmodels\\ferries\\createferryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\viewmodels\\cars\\editcarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\viewmodels\\cars\\editcarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\viewmodels\\cars\\createcarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\viewmodels\\cars\\createcarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\viewmodels\\cars\\carviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\viewmodels\\cars\\carviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\viewmodels\\cars\\cardetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\viewmodels\\cars\\cardetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\services\\guests\\iguestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\services\\guests\\iguestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\services\\guests\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\services\\guests\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\services\\ferries\\iferryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\services\\ferries\\iferryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\services\\ferries\\ferryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\services\\ferries\\ferryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\services\\cars\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\services\\cars\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\services\\cars\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\services\\cars\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D55640-F5DA-4A9A-BB8F-E730DB238878}|FerryBookingAPI\\FerryBookingAPI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D55640-F5DA-4A9A-BB8F-E730DB238878}|FerryBookingAPI\\FerryBookingAPI.csproj|solutionrelative:ferrybookingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D55640-F5DA-4A9A-BB8F-E730DB238878}|FerryBookingAPI\\FerryBookingAPI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16D55640-F5DA-4A9A-BB8F-E730DB238878}|FerryBookingAPI\\FerryBookingAPI.csproj|solutionrelative:ferrybookingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D55640-F5DA-4A9A-BB8F-E730DB238878}|FerryBookingAPI\\FerryBookingAPI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingapi\\controllers\\guestsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D55640-F5DA-4A9A-BB8F-E730DB238878}|FerryBookingAPI\\FerryBookingAPI.csproj|solutionrelative:ferrybookingapi\\controllers\\guestsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D55640-F5DA-4A9A-BB8F-E730DB238878}|FerryBookingAPI\\FerryBookingAPI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingapi\\controllers\\ferriesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D55640-F5DA-4A9A-BB8F-E730DB238878}|FerryBookingAPI\\FerryBookingAPI.csproj|solutionrelative:ferrybookingapi\\controllers\\ferriesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D55640-F5DA-4A9A-BB8F-E730DB238878}|FerryBookingAPI\\FerryBookingAPI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingapi\\controllers\\carsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D55640-F5DA-4A9A-BB8F-E730DB238878}|FerryBookingAPI\\FerryBookingAPI.csproj|solutionrelative:ferrybookingapi\\controllers\\carsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\views\\car\\createcarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\views\\car\\createcarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingModels\\Migrations\\20240519203829_AddNumberOfGuestsToCar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FerryBookingModels\\Migrations\\20240519203829_AddNumberOfGuestsToCar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\ferrybookingmaui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\ferrybookingmaui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FerryBookingMAUI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\views\\car\\cardetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\views\\car\\cardetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\views\\ferry\\ferrydetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\views\\ferry\\ferrydetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeppe\\AppData\\Local\\Temp\\.vsdbgsrc\\46451473f685db6b1ec49ad7f88c92a936f923ab\\Views_Guest_GuestPage.xaml.sg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\views\\ferry\\editferrypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\views\\ferry\\editferrypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\views\\ferry\\createferrypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\views\\ferry\\createferrypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\views\\car\\editcarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\views\\car\\editcarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\views\\car\\carlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\views\\car\\carlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|c:\\users\\jeppe\\source\\repos\\ferrybookingsolution\\ferrybookingmaui\\views\\ferry\\ferrypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6D8FB-64D7-4343-BB45-2F409FF2E988}|FerryBookingMAUI\\FerryBookingMAUI.csproj|solutionrelative:ferrybookingmaui\\views\\ferry\\ferrypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingModels\\obj\\Debug\\net8.0\\FerryBookingModels.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FerryBookingModels\\obj\\Debug\\net8.0\\FerryBookingModels.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\obj\\Debug\\net8.0-android\\FerryBookingMAUI.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FerryBookingMAUI\\obj\\Debug\\net8.0-android\\FerryBookingMAUI.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FerryBookingMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T21:37:50.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Guests\\Index.cshtml",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Views\\Guests\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Guests\\Index.cshtml",
+              "RelativeToolTip": "FerryBookingMVC\\Views\\Guests\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T21:37:47.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Guests\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Views\\Guests\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Guests\\Edit.cshtml",
+              "RelativeToolTip": "FerryBookingMVC\\Views\\Guests\\Edit.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T21:37:44.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Guests\\Details.cshtml",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Views\\Guests\\Details.cshtml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Guests\\Details.cshtml",
+              "RelativeToolTip": "FerryBookingMVC\\Views\\Guests\\Details.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T21:37:43.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Guests\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Views\\Guests\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Guests\\Delete.cshtml",
+              "RelativeToolTip": "FerryBookingMVC\\Views\\Guests\\Delete.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T21:37:41.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Program.cs",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Program.cs",
+              "RelativeToolTip": "FerryBookingMVC\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:25:49.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "FerryBookingMVC\\Controllers\\CarsController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAADwv08AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:25:35.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Cars\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Views\\Cars\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Cars\\Edit.cshtml",
+              "RelativeToolTip": "FerryBookingMVC\\Views\\Cars\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T21:25:41.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Models\\CarViewModel.cs",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Models\\CarViewModel.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Models\\CarViewModel.cs",
+              "RelativeToolTip": "FerryBookingMVC\\Models\\CarViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:19:00.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "FerryBookingMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T21:37:52.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Guests\\Create.cshtml",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Views\\Guests\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Guests\\Create.cshtml",
+              "RelativeToolTip": "FerryBookingMVC\\Views\\Guests\\Create.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T21:37:39.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Ferries\\Index.cshtml",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Views\\Ferries\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Ferries\\Index.cshtml",
+              "RelativeToolTip": "FerryBookingMVC\\Views\\Ferries\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T21:37:35.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Ferries\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Views\\Ferries\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Ferries\\Edit.cshtml",
+              "RelativeToolTip": "FerryBookingMVC\\Views\\Ferries\\Edit.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T21:37:29.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Ferries\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Views\\Ferries\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Ferries\\Delete.cshtml",
+              "RelativeToolTip": "FerryBookingMVC\\Views\\Ferries\\Delete.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T21:37:25.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Cars\\Details.cshtml",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Views\\Cars\\Details.cshtml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Cars\\Details.cshtml",
+              "RelativeToolTip": "FerryBookingMVC\\Views\\Cars\\Details.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T21:37:13.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Cars\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Views\\Cars\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Cars\\Delete.cshtml",
+              "RelativeToolTip": "FerryBookingMVC\\Views\\Cars\\Delete.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T21:37:11.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Cars\\Create.cshtml",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Views\\Cars\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Cars\\Create.cshtml",
+              "RelativeToolTip": "FerryBookingMVC\\Views\\Cars\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T21:37:05.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GuestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Models\\GuestViewModel.cs",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Models\\GuestViewModel.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Models\\GuestViewModel.cs",
+              "RelativeToolTip": "FerryBookingMVC\\Models\\GuestViewModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:37:02.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FerryBookingMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:36:52.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Cars\\Index.cshtml",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Views\\Cars\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Cars\\Index.cshtml",
+              "RelativeToolTip": "FerryBookingMVC\\Views\\Cars\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T16:10:27.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Ferries\\Details.cshtml",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Views\\Ferries\\Details.cshtml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Ferries\\Details.cshtml",
+              "RelativeToolTip": "FerryBookingMVC\\Views\\Ferries\\Details.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAADAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T16:56:26.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GuestsController.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Controllers\\GuestsController.cs",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Controllers\\GuestsController.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Controllers\\GuestsController.cs",
+              "RelativeToolTip": "FerryBookingMVC\\Controllers\\GuestsController.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAIwFIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:36:31.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Ferries\\Create.cshtml",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Views\\Ferries\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Views\\Ferries\\Create.cshtml",
+              "RelativeToolTip": "FerryBookingMVC\\Views\\Ferries\\Create.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T19:18:51.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FerriesController.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Controllers\\FerriesController.cs",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Controllers\\FerriesController.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Controllers\\FerriesController.cs",
+              "RelativeToolTip": "FerryBookingMVC\\Controllers\\FerriesController.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:36:11.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingModels\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "FerryBookingModels\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingModels\\DbInitializer.cs",
+              "RelativeToolTip": "FerryBookingModels\\DbInitializer.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwDoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:35:35.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\MainPage.xaml.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:45:28.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\MauiProgram.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:53:20.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "FerryBookingMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "FerryBookingMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:25:21.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\MainPage.xaml",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\MainPage.xaml",
+              "RelativeToolTip": "FerryBookingMAUI\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T17:00:45.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\AppShell.xaml.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:01:21.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingModels\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FerryBookingModels\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingModels\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FerryBookingModels\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:04:50.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Ferry.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingModels\\Ferry.cs",
+              "RelativeDocumentMoniker": "FerryBookingModels\\Ferry.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingModels\\Ferry.cs",
+              "RelativeToolTip": "FerryBookingModels\\Ferry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:57:16.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingModels\\Guest.cs",
+              "RelativeDocumentMoniker": "FerryBookingModels\\Guest.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingModels\\Guest.cs",
+              "RelativeToolTip": "FerryBookingModels\\Guest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:46:35.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\AppShell.xaml",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\AppShell.xaml",
+              "RelativeToolTip": "FerryBookingMAUI\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T15:51:01.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingModels\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "FerryBookingModels\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingModels\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "FerryBookingModels\\ApplicationDbContextFactory.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:05:03.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingModels\\Car.cs",
+              "RelativeDocumentMoniker": "FerryBookingModels\\Car.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingModels\\Car.cs",
+              "RelativeToolTip": "FerryBookingModels\\Car.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:46:21.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\App.xaml.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:35:30.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\App.xaml",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\App.xaml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\App.xaml",
+              "RelativeToolTip": "FerryBookingMAUI\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T15:57:10.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GuestPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Guest\\GuestPage.xaml.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Views\\Guest\\GuestPage.xaml.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Guest\\GuestPage.xaml.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\Views\\Guest\\GuestPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:44:25.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GuestPage.xaml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Guest\\GuestPage.xaml",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Views\\Guest\\GuestPage.xaml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Guest\\GuestPage.xaml",
+              "RelativeToolTip": "FerryBookingMAUI\\Views\\Guest\\GuestPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-19T09:01:28.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GuestDetailsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Guest\\GuestDetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Views\\Guest\\GuestDetailsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Guest\\GuestDetailsPage.xaml.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\Views\\Guest\\GuestDetailsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:52:55.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GuestDetailsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Guest\\GuestDetailsPage.xaml",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Views\\Guest\\GuestDetailsPage.xaml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Guest\\GuestDetailsPage.xaml",
+              "RelativeToolTip": "FerryBookingMAUI\\Views\\Guest\\GuestDetailsPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-19T14:51:22.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EditGuestPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Guest\\EditGuestPage.xaml.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Views\\Guest\\EditGuestPage.xaml.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Guest\\EditGuestPage.xaml.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\Views\\Guest\\EditGuestPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:34:52.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CreateGuestPage.xaml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Guest\\CreateGuestPage.xaml",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Views\\Guest\\CreateGuestPage.xaml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Guest\\CreateGuestPage.xaml",
+              "RelativeToolTip": "FerryBookingMAUI\\Views\\Guest\\CreateGuestPage.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-19T14:51:42.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CreateGuestPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Guest\\CreateGuestPage.xaml.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Views\\Guest\\CreateGuestPage.xaml.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Guest\\CreateGuestPage.xaml.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\Views\\Guest\\CreateGuestPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:00:40.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FerryPage.xaml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Ferry\\FerryPage.xaml",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Views\\Ferry\\FerryPage.xaml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Ferry\\FerryPage.xaml",
+              "RelativeToolTip": "FerryBookingMAUI\\Views\\Ferry\\FerryPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T15:40:23.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FerryDetails.xaml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Ferry\\FerryDetails.xaml",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Views\\Ferry\\FerryDetails.xaml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Ferry\\FerryDetails.xaml",
+              "RelativeToolTip": "FerryBookingMAUI\\Views\\Ferry\\FerryDetails.xaml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-19T09:21:49.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EditFerryPage.xaml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Ferry\\EditFerryPage.xaml",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Views\\Ferry\\EditFerryPage.xaml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Ferry\\EditFerryPage.xaml",
+              "RelativeToolTip": "FerryBookingMAUI\\Views\\Ferry\\EditFerryPage.xaml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-19T09:21:35.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CreateFerryPage.xaml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Ferry\\CreateFerryPage.xaml",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Views\\Ferry\\CreateFerryPage.xaml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Ferry\\CreateFerryPage.xaml",
+              "RelativeToolTip": "FerryBookingMAUI\\Views\\Ferry\\CreateFerryPage.xaml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-19T09:21:17.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EditGuestPage.xaml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Guest\\EditGuestPage.xaml",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Views\\Guest\\EditGuestPage.xaml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Guest\\EditGuestPage.xaml",
+              "RelativeToolTip": "FerryBookingMAUI\\Views\\Guest\\EditGuestPage.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-19T14:52:00.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EditCarPage.xaml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Car\\EditCarPage.xaml",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Views\\Car\\EditCarPage.xaml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Car\\EditCarPage.xaml",
+              "RelativeToolTip": "FerryBookingMAUI\\Views\\Car\\EditCarPage.xaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T16:28:01.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CreateCarPage.xaml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Car\\CreateCarPage.xaml",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Views\\Car\\CreateCarPage.xaml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Car\\CreateCarPage.xaml",
+              "RelativeToolTip": "FerryBookingMAUI\\Views\\Car\\CreateCarPage.xaml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T16:27:39.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CarListView.xaml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Car\\CarListView.xaml",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Views\\Car\\CarListView.xaml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Car\\CarListView.xaml",
+              "RelativeToolTip": "FerryBookingMAUI\\Views\\Car\\CarListView.xaml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T16:02:24.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CarDetailsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Car\\CarDetailsPage.xaml",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Views\\Car\\CarDetailsPage.xaml",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Car\\CarDetailsPage.xaml",
+              "RelativeToolTip": "FerryBookingMAUI\\Views\\Car\\CarDetailsPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T16:28:31.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:43:28.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:05:44.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "GuestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\Guests\\GuestViewModel.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\ViewModels\\Guests\\GuestViewModel.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\Guests\\GuestViewModel.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\ViewModels\\Guests\\GuestViewModel.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAIwCQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:49:21.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "GuestDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\Guests\\GuestDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\ViewModels\\Guests\\GuestDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\Guests\\GuestDetailsViewModel.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\ViewModels\\Guests\\GuestDetailsViewModel.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:50:37.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "EditGuestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\Guests\\EditGuestViewModel.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\ViewModels\\Guests\\EditGuestViewModel.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\Guests\\EditGuestViewModel.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\ViewModels\\Guests\\EditGuestViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:50:17.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CreateGuestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\Guests\\CreateGuestViewModel.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\ViewModels\\Guests\\CreateGuestViewModel.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\Guests\\CreateGuestViewModel.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\ViewModels\\Guests\\CreateGuestViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:49:56.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "FerryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\Ferries\\FerryViewModel.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\ViewModels\\Ferries\\FerryViewModel.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\Ferries\\FerryViewModel.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\ViewModels\\Ferries\\FerryViewModel.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAIwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:55:31.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FerryDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\Ferries\\FerryDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\ViewModels\\Ferries\\FerryDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\Ferries\\FerryDetailsViewModel.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\ViewModels\\Ferries\\FerryDetailsViewModel.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:59:21.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "EditFerryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\Ferries\\EditFerryViewModel.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\ViewModels\\Ferries\\EditFerryViewModel.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\Ferries\\EditFerryViewModel.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\ViewModels\\Ferries\\EditFerryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:31:32.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CreateFerryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\Ferries\\CreateFerryViewModel.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\ViewModels\\Ferries\\CreateFerryViewModel.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\Ferries\\CreateFerryViewModel.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\ViewModels\\Ferries\\CreateFerryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:29:32.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "EditCarViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\Cars\\EditCarViewModel.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\ViewModels\\Cars\\EditCarViewModel.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\Cars\\EditCarViewModel.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\ViewModels\\Cars\\EditCarViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:32:28.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "CreateCarViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\Cars\\CreateCarViewModel.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\ViewModels\\Cars\\CreateCarViewModel.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\Cars\\CreateCarViewModel.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\ViewModels\\Cars\\CreateCarViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:31:43.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CarViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\Cars\\CarViewModel.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\ViewModels\\Cars\\CarViewModel.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\Cars\\CarViewModel.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\ViewModels\\Cars\\CarViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:09:40.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "CarDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\Cars\\CarDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\ViewModels\\Cars\\CarDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\ViewModels\\Cars\\CarDetailsViewModel.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\ViewModels\\Cars\\CarDetailsViewModel.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:32:53.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IGuestService.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Services\\Guests\\IGuestService.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Services\\Guests\\IGuestService.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Services\\Guests\\IGuestService.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\Services\\Guests\\IGuestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:44:50.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "GuestService.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Services\\Guests\\GuestService.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Services\\Guests\\GuestService.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Services\\Guests\\GuestService.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\Services\\Guests\\GuestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:45:07.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IFerryService.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Services\\Ferries\\IFerryService.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Services\\Ferries\\IFerryService.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Services\\Ferries\\IFerryService.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\Services\\Ferries\\IFerryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:55:11.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "FerryService.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Services\\Ferries\\FerryService.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Services\\Ferries\\FerryService.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Services\\Ferries\\FerryService.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\Services\\Ferries\\FerryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:54:36.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Services\\Cars\\ICarService.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Services\\Cars\\ICarService.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Services\\Cars\\ICarService.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\Services\\Cars\\ICarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:55:34.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Services\\Cars\\CarService.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Services\\Cars\\CarService.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Services\\Cars\\CarService.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\Services\\Cars\\CarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:17:34.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FerryBookingAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingAPI\\Program.cs",
+              "RelativeToolTip": "FerryBookingAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:27:44.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FerryBookingAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingAPI\\appsettings.json",
+              "RelativeToolTip": "FerryBookingAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T16:27:40.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "GuestsAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingAPI\\Controllers\\GuestsAPIController.cs",
+              "RelativeDocumentMoniker": "FerryBookingAPI\\Controllers\\GuestsAPIController.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingAPI\\Controllers\\GuestsAPIController.cs",
+              "RelativeToolTip": "FerryBookingAPI\\Controllers\\GuestsAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:27:36.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "FerriesAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingAPI\\Controllers\\FerriesAPIController.cs",
+              "RelativeDocumentMoniker": "FerryBookingAPI\\Controllers\\FerriesAPIController.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingAPI\\Controllers\\FerriesAPIController.cs",
+              "RelativeToolTip": "FerryBookingAPI\\Controllers\\FerriesAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:27:33.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "CarsAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingAPI\\Controllers\\CarsAPIController.cs",
+              "RelativeDocumentMoniker": "FerryBookingAPI\\Controllers\\CarsAPIController.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingAPI\\Controllers\\CarsAPIController.cs",
+              "RelativeToolTip": "FerryBookingAPI\\Controllers\\CarsAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:27:24.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "CreateCarPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Car\\CreateCarPage.xaml.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Views\\Car\\CreateCarPage.xaml.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Car\\CreateCarPage.xaml.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\Views\\Car\\CreateCarPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:18:15.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20240519203829_AddNumberOfGuestsToCar.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingModels\\Migrations\\20240519203829_AddNumberOfGuestsToCar.cs",
+              "RelativeDocumentMoniker": "FerryBookingModels\\Migrations\\20240519203829_AddNumberOfGuestsToCar.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingModels\\Migrations\\20240519203829_AddNumberOfGuestsToCar.cs",
+              "RelativeToolTip": "FerryBookingModels\\Migrations\\20240519203829_AddNumberOfGuestsToCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:38:29.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "FerryBookingMAUI",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\FerryBookingMAUI.csproj",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\FerryBookingMAUI.csproj",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\FerryBookingMAUI.csproj",
+              "RelativeToolTip": "FerryBookingMAUI\\FerryBookingMAUI.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-19T16:37:32.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAiwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:06:56.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "CarDetailsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Car\\CarDetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Views\\Car\\CarDetailsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Car\\CarDetailsPage.xaml.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\Views\\Car\\CarDetailsPage.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADgvwgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:17:51.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "FerryDetails.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Ferry\\FerryDetails.xaml.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Views\\Ferry\\FerryDetails.xaml.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Ferry\\FerryDetails.xaml.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\Views\\Ferry\\FerryDetails.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADgvwgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:22:43.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Views_Guest_GuestPage.xaml.sg.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\AppData\\Local\\Temp\\.vsdbgsrc\\46451473f685db6b1ec49ad7f88c92a936f923ab\\Views_Guest_GuestPage.xaml.sg.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\46451473f685db6b1ec49ad7f88c92a936f923ab\\Views_Guest_GuestPage.xaml.sg.cs",
+              "ToolTip": "C:\\Users\\jeppe\\AppData\\Local\\Temp\\.vsdbgsrc\\46451473f685db6b1ec49ad7f88c92a936f923ab\\Views_Guest_GuestPage.xaml.sg.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\46451473f685db6b1ec49ad7f88c92a936f923ab\\Views_Guest_GuestPage.xaml.sg.cs [Read Only]",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:26:08.129Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "EditFerryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Ferry\\EditFerryPage.xaml.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Views\\Ferry\\EditFerryPage.xaml.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Ferry\\EditFerryPage.xaml.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\Views\\Ferry\\EditFerryPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:22:25.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "CreateFerryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Ferry\\CreateFerryPage.xaml.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Views\\Ferry\\CreateFerryPage.xaml.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Ferry\\CreateFerryPage.xaml.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\Views\\Ferry\\CreateFerryPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:22:20.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "EditCarPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Car\\EditCarPage.xaml.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Views\\Car\\EditCarPage.xaml.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Car\\EditCarPage.xaml.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\Views\\Car\\EditCarPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:35:39.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "CarListView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Car\\CarListView.xaml.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Views\\Car\\CarListView.xaml.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Car\\CarListView.xaml.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\Views\\Car\\CarListView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:11:02.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "FerryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Ferry\\FerryPage.xaml.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\Views\\Ferry\\FerryPage.xaml.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\Views\\Ferry\\FerryPage.xaml.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\Views\\Ferry\\FerryPage.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:40:45.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "FerryBookingMAUI.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\obj\\Debug\\net8.0-android\\FerryBookingMAUI.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "FerryBookingMAUI\\obj\\Debug\\net8.0-android\\FerryBookingMAUI.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingMAUI\\obj\\Debug\\net8.0-android\\FerryBookingMAUI.AssemblyInfo.cs",
+              "RelativeToolTip": "FerryBookingMAUI\\obj\\Debug\\net8.0-android\\FerryBookingMAUI.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:24:14.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "FerryBookingModels.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingModels\\obj\\Debug\\net8.0\\FerryBookingModels.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "FerryBookingModels\\obj\\Debug\\net8.0\\FerryBookingModels.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\jeppe\\source\\repos\\FerryBookingSolution\\FerryBookingModels\\obj\\Debug\\net8.0\\FerryBookingModels.AssemblyInfo.cs",
+              "RelativeToolTip": "FerryBookingModels\\obj\\Debug\\net8.0\\FerryBookingModels.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:54:15.499Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

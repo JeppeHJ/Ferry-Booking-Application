@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:FerryBookingMAUI.ViewModels.Ferries"
+             x:Class="FerryBookingMAUI.Views.Ferry.FerryDetailsPage"
+             Title="Ferry Details">
+
+    <ContentPage.BindingContext>
+        <vm:FerryDetailsViewModel />
+    </ContentPage.BindingContext>
+
+    <StackLayout Padding="10">
+        <Label Text="Ferry Details" FontSize="Large" FontAttributes="Bold" />
+        <Label Text="Max Guests:" FontAttributes="Bold" />
+        <Label Text="{Binding SelectedFerry.MaxGuests}" />
+        <Label Text="Max Cars:" FontAttributes="Bold" />
+        <Label Text="{Binding SelectedFerry.MaxCars}" />
+        <Label Text="Price Per Car:" FontAttributes="Bold" />
+        <Label Text="{Binding SelectedFerry.PricePerCar}" />
+        <Label Text="Price Per Guest:" FontAttributes="Bold" />
+        <Label Text="{Binding SelectedFerry.PricePerGuest}" />
+        <Label Text="Total Price:" FontAttributes="Bold" />
+        <Label Text="{Binding TotalPrice}" />
+        <Label Text="Total Guests:" FontAttributes="Bold" />
+        <Label Text="{Binding SelectedFerry.Guests.Count}" />
+        <Label Text="Total Cars:" FontAttributes="Bold" />
+        <Label Text="{Binding SelectedFerry.Cars.Count}" />
+
+        <Label Text="Cars:" FontAttributes="Bold" Margin="0,10,0,0" />
+        <CollectionView ItemsSource="{Binding Cars}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout>
+                        <Label Text="{Binding RegistrationPlate}" FontAttributes="Bold" />
+                        <Label Text="Guests:" FontAttributes="Bold" />
+                        <CollectionView ItemsSource="{Binding Guests}">
+                            <CollectionView.ItemTemplate>
+                                <DataTemplate>
+                                    <StackLayout>
+                                        <Label Text="{Binding Name}" />
+                                        <Label Text="{Binding Age}" />
+                                        <Label Text="{Binding Gender}" />
+                                    </StackLayout>
+                                </DataTemplate>
+                            </CollectionView.ItemTemplate>
+                        </CollectionView>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+        <Button Text="Edit" Command="{Binding EditFerryCommand}" Margin="0,10,0,0" />
+    </StackLayout>
+</ContentPage>

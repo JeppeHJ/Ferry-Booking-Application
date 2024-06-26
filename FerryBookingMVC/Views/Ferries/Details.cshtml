@@ -1,0 +1,71 @@
+﻿@model FerryBookingModels.Ferry
+
+@{
+    ViewData["Title"] = "Ferry Details";
+}
+
+<h1>Ferry Details</h1>
+
+<div>
+    <h4>Ferry</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.MaxGuests)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.MaxGuests)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.MaxCars)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.MaxCars)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PricePerCar)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PricePerCar)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PricePerGuest)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PricePerGuest)
+        </dd>
+    </dl>
+</div>
+
+<h4>Total Details</h4>
+<dl class="row">
+    <dt class="col-sm-2">
+        Total Price
+    </dt>
+    <dd class="col-sm-10">
+        @ViewBag.TotalPrice
+    </dd>
+    <dt class="col-sm-2">
+        Total Guests
+    </dt>
+    <dd class="col-sm-10">
+        @ViewBag.TotalGuests
+    </dd>
+    <dt class="col-sm-2">
+        Total Cars
+    </dt>
+    <dd class="col-sm-10">
+        @ViewBag.TotalCars
+    </dd>
+</dl>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

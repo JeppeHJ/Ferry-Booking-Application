@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ye9q6dKupcoQyX4qCbtAVQBF/rRqmiB8SBIjBsvBGLI=",
+  "Source": "FerryBookingAPI",
+  "BasePath": "_content/FerryBookingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

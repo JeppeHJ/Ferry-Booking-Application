@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:FerryBookingMAUI.ViewModels.Cars"
+             x:Class="FerryBookingMAUI.Views.Car.CreateCarPage"
+             Title="Create Car">
+
+    <ContentPage.BindingContext>
+        <vm:CreateCarViewModel />
+    </ContentPage.BindingContext>
+
+    <StackLayout Padding="10">
+        <Entry Placeholder="Registration Plate" Text="{Binding NewCar.RegistrationPlate}" />
+
+        <Picker Title="Number of Guests" ItemsSource="{Binding GuestNumbers}" SelectedItem="{Binding NumberOfGuests}" />
+
+        <Label Text="Guests:" />
+        <CollectionView ItemsSource="{Binding Guests}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout>
+                        <Entry Placeholder="Name" Text="{Binding Name}" />
+                        <Entry Placeholder="Age" Text="{Binding Age}" Keyboard="Numeric" />
+                        <Picker Title="Select Gender" SelectedItem="{Binding Gender}">
+                            <Picker.ItemsSource>
+                                <x:Array Type="{x:Type x:String}">
+                                    <x:String>Male</x:String>
+                                    <x:String>Female</x:String>
+                                    <x:String>Other</x:String>
+                                </x:Array>
+                            </Picker.ItemsSource>
+                        </Picker>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+        <Button Text="Save" Command="{Binding SaveCarCommand}" />
+    </StackLayout>
+</ContentPage>

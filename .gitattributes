@@ -1,2 +1,10 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Specify C# files
+*.cs linguist-language=C#
+*.cshtml linguist-language=C#
+*.xaml linguist-language=C#
+*.sln linguist-language=C#
+*.csproj linguist-language=C#
+
+# Ignore certain folders to improve language detection
+node_modules/* linguist-vendored
+vendor/* linguist-vendored

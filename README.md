@@ -57,15 +57,4 @@ The solution is organized into multiple projects, each serving a distinct purpos
     ```sh
     dotnet run
     ```
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License.
-
-```css
-Feel free to customize the README further based on any additional details or instructions specific to your project.
-```
 
